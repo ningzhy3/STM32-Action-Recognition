@@ -1,7 +1,5 @@
-## STM32 Final Project    Zhiyuan Ning (zn414)
+## STM32 Final Project    
 ### ECE-GY  6483 Real Time Embedded Systems at NYU
-
-This zip file contains source code of my final project.
 
 ### How to use?
 1. Build the code in the vscode and upload to the board that connect to.
